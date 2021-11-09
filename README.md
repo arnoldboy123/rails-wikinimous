@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a rails application I built as part of the Le Wagon bootcamp fullstack challenge.
 
-Things you may want to cover:
+We are building this to better understand CRUD, MVC and routing in Rails.
 
-* Ruby version
+Some refactoring that I have done:
+- Use `resource` in routing
+- Use `before action` in controller
+- keeping the code DRY
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you would like to have a look at the app itself, you can run it on `localhost:3000/articles`
